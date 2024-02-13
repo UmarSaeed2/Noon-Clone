@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* nav start */
+
+.noon-logo{
+    width: 7rem;
+}
+
+.nav-search{
+    width: 45rem;
+}
+.nav-icon{
+    color: #000000;
+    padding-left: 0.3rem;
+}
+@media (max-width: 991px){
+    .dubai-imag{
+        display: none;
+    }
+}
+
+.categories-list{
+    gap: 4rem;
+}
+
+/* discount image */
+
+.discount-imag{
+    width: 100%;
+}
